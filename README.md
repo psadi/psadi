@@ -8,6 +8,13 @@
 
 > Currently Pursuing [M.Tech. Computing Systems & Infrastructure](https://bits-pilani-wilp.ac.in/m-tech/computing-systems-infrastructure.php) @[BITS](https://bits-pilani-wilp.ac.in/)
 
+<br>
+
+### 🐍 🐍 🐍 </b>
+![snake gif](https://raw.githubusercontent.com/psadi/psadi/output/github-contribution-grid-snake.svg)
+
+---
+
 ### <b>Somethng About me ... </b>
 
 ```python
