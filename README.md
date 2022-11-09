@@ -9,16 +9,6 @@
 > Currently Pursuing [M.Tech. Computing Systems & Infrastructure](https://bits-pilani-wilp.ac.in/m-tech/computing-systems-infrastructure.php) @[BITS](https://bits-pilani-wilp.ac.in/)
 
 ### <b>Somethng About me ... </b>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png"></code>
-<code><img height="20" src="https://github.com/liquibase/liquibase/raw/master/Liquibase.png"></code>
-<code><img height="20" src="https://prometheus.io/assets/prometheus_logo_grey.svg"></code>
-<code><img height="20" src="https://github.com/grafana/grafana/raw/main/docs/logo-horizontal.png"></code>
 
 ```python
 #!/usr/bin/env python3
