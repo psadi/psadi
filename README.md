@@ -1,33 +1,10 @@
-### <b>Hello, I'm Adithya !!</b>
+### <b>👋🏼 Hi There!, I'm Adithya ([psadi](https://linktr.ee/psadi))</b>
 
 ---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=psadi.psadi)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+**Cloud & DevOps Professional** passionate about leveraging cloud technologies, automation and CI/CD pipelines to optimize and secure IT infrastructure, ensuring a seamless SDLC process.
 
-class AboutMe:
-    def __init__(self):
-      self.pronouns: ['He', 'Him']
-      self.name = "P S, Adithya"
-      self.alias = "Addy"
-      self.role = "Cloud & DevOps Engineer"
-      self.lang = ["en_US"]
-
-    def skills(self):
-      return {
-        "Languages" : ["Python", "Groovy", "HTML", "SQL"],
-        "CI/CD Tools" : ["Git", "Jenkins", "Docker", "Kubernetes", "OpenShift", "Terraform", "Vault", "Ansible", "Rundeck", "Liquibase"],
-        "Continous Monitoring": ["Prometheus", "Grafana", "Loki"],
-        "Architecture" : ["microservices", "even-driven"],
-        "Currently_Learning": ["Dart/Flutter", "GoLang"]
-      }
-
-    def hello(self):
-      print("Thanks for dropping by :)")
-
-me = AboutMe()
-me.hello()
-```
+Thanks for dropping by! 😊 Feel free to connect if you'd like to discuss DevOps, Cloud, or anything tech-related!
