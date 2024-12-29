@@ -7,4 +7,4 @@
 
 **Cloud & DevOps Professional** passionate about leveraging cloud technologies, automation and CI/CD pipelines to optimize and secure IT infrastructure, ensuring a seamless SDLC process.
 
-Thanks for dropping by! 😊 Feel free to connect if you'd like to discuss DevOps, Cloud, or anything tech-related!
+Thanks for dropping by! 😊
